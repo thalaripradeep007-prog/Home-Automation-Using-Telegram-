@@ -1,2 +1,3 @@
-# Home-Automation-Using-Telegram-
-Developed a Home Automation using Telegram Bot to enable remote control and monitoring of household devices. The system allows users to operate appliances such as lights and fans through simple Telegram commands over a Wi-Fi network.
+Designed and developed a smart home automation system that allows users to control electrical appliances remotely using the Telegram messaging platform.
+
+This project integrates IoT concepts with a user-friendly interface, enabling real-time communication between the user and home devices. By sending simple commands through Telegram, users can turn appliances ON/OFF from anywhere, improving convenience, energy efficiency, and security, mostly used for travellers , aged peoples etc...
